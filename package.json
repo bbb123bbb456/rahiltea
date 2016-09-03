@@ -1,0 +1,19 @@
+{
+  "name": "opiapi",
+  "version": "0.0.0",
+  "description": "Opinionated web API server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified yet\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titarenko/opiapi.git"
+  },
+  "author": "Constantin Titarenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titarenko/opiapi/issues"
+  },
+  "homepage": "https://github.com/titarenko/opiapi#readme"
+}
